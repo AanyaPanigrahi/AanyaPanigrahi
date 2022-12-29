@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Python,CSS,Javascript**
+- 🌱 I’m currently learning **Python, CSS, Javascript**
 
 - 📫 How to reach me **aanya2614@gmail.com**
 
