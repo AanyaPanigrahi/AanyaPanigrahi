@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **aanya2614@gmail.com**
 
-- 📄 Know about my experiences <a href="https://www.canva.com/design/DAFVlib2INo/DY-6l03ueVZGeITvYTkE2g/view?utm_content=DAFVlib2INo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFVlib2INo/DY-6l03ueVZGeITvYTkE2g/view?utm_content=DAFVlib2INo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Resume</a>
+- 📄 Know about my experiences <a href="https://www.canva.com/design/DAFVlib2INo/DY-6l03ueVZGeITvYTkE2g/view?utm_content=DAFVlib2INo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
