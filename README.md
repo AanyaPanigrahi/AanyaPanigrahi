@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring AI Developer</h3><br>
 <img align="right" alt="coding" width="420" src="https://camo.githubusercontent.com/4aa77ea32aa4d7be626e833b160f3d8923c133cd32c34fefbdc43c8abfcff710/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aanyapanigrahi&label=Profile%20views&color=0e75b6&style=flat" alt="aanyapanigrahi" /> </p>
+<p align="left"><em> <img src="https://komarev.com/ghpvc/?username=aanyapanigrahi&label=Profile%20views&color=0e75b6&style=flat" alt="aanyapanigrahi" /> </p>
 
 - 🔭 I’m currently working on **Web Development**
 
@@ -11,7 +11,7 @@
 - 📫 How to reach me **aanya2614@gmail.com**
 
 - 📄 Know about my experiences <a href="https://www.canva.com/design/DAFVlib2INo/DY-6l03ueVZGeITvYTkE2g/view?utm_content=DAFVlib2INo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Resume</a>
-
+</em>
 <br>
 <hr>
 
