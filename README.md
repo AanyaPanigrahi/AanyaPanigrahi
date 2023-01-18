@@ -4,13 +4,13 @@
 
 <p align="left"><em> <img src="https://komarev.com/ghpvc/?username=aanyapanigrahi&label=Profile%20views&color=0e75b6&style=flat" alt="aanyapanigrahi" /> </p>
 
-- 🔭 I’m currently working on **Web Development and Problem solving skills**
+- 🔭 I’m currently working on **Web Development and Problem solving skills in**
 
-- 🌱 I'm currently learning **Python, CSS, Javascript**
+- 🌱 Languages I'm currently learning **Python, CSS, Javascript**
 
-- 📫 How to reach me : **aanya2614@gmail.com**
+- 📫 To reach me : **aanya2614@gmail.com**
 
-- 📄 Know about my experiences : <a href="https://www.canva.com/design/DAFVlib2INo/DY-6l03ueVZGeITvYTkE2g/view?utm_content=DAFVlib2INo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Resume</a>
+- 📄 About my experiences : <a href="https://www.canva.com/design/DAFVlib2INo/DY-6l03ueVZGeITvYTkE2g/view?utm_content=DAFVlib2INo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Resume</a>
 </em>
 <br>
 <hr>
