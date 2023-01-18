@@ -4,13 +4,13 @@
 
 <p align="left"><em> <img src="https://komarev.com/ghpvc/?username=aanyapanigrahi&label=Profile%20views&color=0e75b6&style=flat" alt="aanyapanigrahi" /> </p>
 
-- 🔭 I’m currently working on **Web Development and Problem solving skills in**
+- 🔭 I’m currently working on **Web Development and Problem solving skills**
 
-- 🌱 Languages I'm currently learning **Python, CSS, Javascript**
+- 🌱 Languages I'm currently learning are **Python, CSS, Javascript**
 
 - 📫 To reach me : **aanya2614@gmail.com**
 
-- 📄 About my experiences : <a href="https://www.canva.com/design/DAFVlib2INo/DY-6l03ueVZGeITvYTkE2g/view?utm_content=DAFVlib2INo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Resume</a>
+- 📄 Know about my experiences : <a href="https://www.canva.com/design/DAFVlib2INo/DY-6l03ueVZGeITvYTkE2g/view?utm_content=DAFVlib2INo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Resume</a>
 </em>
 <br>
 <hr>
@@ -26,7 +26,7 @@
 
 <hr>
 
-<h2 align="left" border="0"><em>My Tech Stack:</em> <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="30"/></h2>
+<h2 align="left" border="0"><em>My Tech Stack </em> <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="30"/></h2>
 
 
   
