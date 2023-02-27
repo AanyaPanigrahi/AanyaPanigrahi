@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Web Development and Problem solving skills**
 
-- 🌱 Languages I'm currently learning are **Python, CSS, Javascript**
+- 🌱 Languages I'm currently learning are **Python, C, CSS & Javascript**
 
 - 📫 To reach me : **aanya2614@gmail.com**
 
