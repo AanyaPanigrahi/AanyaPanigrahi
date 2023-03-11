@@ -33,7 +33,10 @@
 
  ***<table>***
   <tr>
-     <td align="center" width="98">
+     <td align="center" width="90">
+        <img src="https://media1.giphy.com/avatars/GenCGroup/DDI6XPb1buW5.gif" alt="icon" width="79" height="60" />
+      <br>C
+    <td align="center" width="98">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="89" height="55" />
       </a>
@@ -55,3 +58,7 @@
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="89" height="55" />
       <br>Javascript
     </td>
+  <td align="center" width="90">
+       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="89" height="60" />       
+     <br>SQL  
+      </td>
