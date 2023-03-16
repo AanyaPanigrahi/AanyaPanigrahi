@@ -1,4 +1,4 @@
-<h1 align="center">Heya, I'm Aanya </h1>
+<h1 align="center">Hey, I'm Aanya </h1>
 <h2 align="center">an aspiring developer</h2><br>
 <img align="right" alt="coding" height="250" width="350" src="https://camo.githubusercontent.com/4aa77ea32aa4d7be626e833b160f3d8923c133cd32c34fefbdc43c8abfcff710/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966"
 
