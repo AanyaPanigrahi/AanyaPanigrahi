@@ -4,9 +4,9 @@
 
 <p align="left"><em> <img src="https://komarev.com/ghpvc/?username=aanyapanigrahi&label=Profile%20views&color=0e75b6&style=flat" alt="aanyapanigrahi" /> </p>
 
-- 🔭 I’m currently working on **Web Development and Problem solving skills**
+- 🔭 Currently working on **Problem solving skills**
 
-- 🌱 Languages I'm currently learning are **Python, C, CSS & Javascript**
+- 🌱 Learning Languages like **Python, C, CSS & Javascript**
 
 - 📫 To reach me : **aanya2614@gmail.com**
 
