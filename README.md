@@ -10,7 +10,7 @@
 
 - 📫 To reach me : **aanya2614@gmail.com**
 
-- 📄 Know about my experiences : <a href="https://www.canva.com/design/DAFVlib2INo/DY-6l03ueVZGeITvYTkE2g/view?utm_content=DAFVlib2INo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Resume</a>
+- 📄 Know about my experiences : <a href="https://drive.google.com/file/d/1Kptou5YtifuhCes54ntGgfzfqg4kb5aj/view?usp=sharing">Resume</a>
 </em>
 <br>
 <hr>
