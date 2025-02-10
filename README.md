@@ -10,7 +10,7 @@
 
 - 📫 To reach me : **aanya2614@gmail.com**
 
-- 📄 Know about my experiences : <a href="https://drive.google.com/file/d/1kKMSwdOOb9IATd4XqI1RBLRP4Asx3TXb/view?usp=sharing">Resume</a>
+- 📄 Know about my experiences : <a href="https://drive.google.com/file/d/1t_wiScQ7KMliBAGVbWvSA4SQN9PBuViE/view?usp=drive_link">Resume</a> and <a href="https://portfolioaanya.vercel.app/resume.html">Portfolio</a>
 </em>
 <br>
 <hr>
